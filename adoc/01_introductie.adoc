@@ -1,5 +1,8 @@
 :source-highlighter: prettify
 :icons: font
+:nofooter:
+:image-root: resources/image
+:nqc-root: resources/nqc
 
 :previous: index
 :next: 01_introductie
