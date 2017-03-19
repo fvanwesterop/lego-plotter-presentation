@@ -25,5 +25,5 @@ rm -rf ${publish_dir}/resources
 cp -r ${source_dir}/resources ${publish_dir}
 
 # Filter-out content we do not want published
-rm ${publish_dir}/00_*.html
-rm ${publish_dir}/99_*.html
+rm -f ${publish_dir}/00_*.html
+rm -f ${publish_dir}/99_*.html
