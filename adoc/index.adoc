@@ -1,8 +1,13 @@
 :source-highlighter: prettify
 :icons: font
 
+:image-root: resources/image
+:nqc-root: resources/nqc
+
 :previous: index
 :next: 01_introductie
+
+:plotter-image: {image-root}/lego_plotter.jpg
 
 = LEGO Plotter
 Frank van Westerop <https://github.com/fvanwesterop[@fvanwesterop]>
@@ -10,3 +15,6 @@ ifdef::env-github,env-browser[:outfilesuffix: .adoc]
 
 [.text-right]
 link:{previous}{outfilesuffix}[Previous] | link:{next}{outfilesuffix}[Next]
+
+[.right]
+image::{plotter-image}[LEGO Plotter]
