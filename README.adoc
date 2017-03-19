@@ -1,0 +1,9 @@
+:source-highlighter: prettify
+
+= Blue4IT LEGO Plotter Demo
+Frank van Westerop <https://github.com/fvanwesterop[@fvanwesterop]>
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+:gh-pages-url: https://fvanwesterop.github.io/lego-plotter-presentation/
+
+- Bezoek de LEGO Plotter Demo {gh-pages-url}[website].
