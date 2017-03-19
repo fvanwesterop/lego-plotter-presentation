@@ -1,0 +1,12 @@
+:source-highlighter: prettify
+:icons: font
+
+:previous: https://fvanwesterop.github.io/lego-plotter-presentation/
+:next: https://fvanwesterop.github.io/lego-plotter-presentation/
+
+= LEGO Plotter
+Frank van Westerop <https://github.com/fvanwesterop[@fvanwesterop]>
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+[.text-right]
+{previous}[Previous] | {next}[Next]
